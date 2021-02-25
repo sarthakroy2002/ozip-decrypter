@@ -14,9 +14,9 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://ghostmirror.hitesh920.workers.dev/RMX2170PU_11_OTA_11000270_all_NUtnwpAEY3po_8d0001ad722f2.ozip
-  FIRMWARE_NAME: RMX2170PU_11_OTA_11000270_all_NUtnwpAEY3po_8d0001ad722f2.ozip
-  FIRMWARE_ZIP_NAME: RMX2170PU_11_OTA_11000270_all_NUtnwpAEY3po_8d0001ad722f2
+  FIRMWARE_LINK: https://download.c.realme.com/flash/Rollbackpack/realme_5/RMX1911EX_11_OTA_0310_all_V0QuqzUpetfU.ozip
+  FIRMWARE_NAME: RMX1911EX_11_OTA_0310_all_V0QuqzUpetfU.ozip
+  FIRMWARE_ZIP_NAME: RMX1911EX_11_OTA_0310_all_V0QuqzUpetfU
   TZ: Asia/Kolkata
 
 jobs:
